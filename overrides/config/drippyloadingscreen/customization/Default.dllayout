@@ -1,0 +1,21 @@
+type = hud
+
+customization-meta {
+  backgroundimage = FancyMenu/Drippy.png
+  renderorder = foreground
+  backgroundcolor = 0
+}
+
+customization {
+  visible = false
+  action = editlogo
+}
+
+customization {
+  orientation = bottom-centered
+  x = 0
+  action = editprogressbar
+  y = -109
+  barcolor = 313538
+}
+

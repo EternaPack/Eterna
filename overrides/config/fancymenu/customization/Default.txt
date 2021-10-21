@@ -1,0 +1,258 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = background
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = FancyMenu/background.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = true
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=400310%
+  orientation = mid-centered
+  x = -88
+  action = movebutton
+  y = -75
+}
+
+customization {
+  identifier = %id=400310%
+  width = 175
+  action = resizebutton
+  height = 24
+}
+
+customization {
+  identifier = %id=400310%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400310%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = FancyMenu\buttonmps.png
+  backgroundnormal = FancyMenu\buttonmp.png
+}
+
+customization {
+  identifier = %id=400358%
+  orientation = mid-centered
+  x = -88
+  action = movebutton
+  y = -20
+}
+
+customization {
+  identifier = %id=400358%
+  width = 86
+  action = resizebutton
+  height = 24
+}
+
+customization {
+  identifier = %id=400358%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400358%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = FancyMenu\buttonsmallmodssel.png
+  backgroundnormal = FancyMenu\buttonsmallmods.png
+}
+
+customization {
+  identifier = %id=604394%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400286%
+  orientation = mid-centered
+  x = -88
+  action = movebutton
+  y = -48
+}
+
+customization {
+  identifier = %id=400286%
+  width = 175
+  action = resizebutton
+  height = 24
+}
+
+customization {
+  identifier = %id=400286%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400286%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = FancyMenu\buttonsps.png
+  backgroundnormal = FancyMenu\buttonsp.png
+}
+
+customization {
+  identifier = %id=400334%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=90%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400394%
+  orientation = mid-centered
+  x = 1
+  action = movebutton
+  y = -20
+}
+
+customization {
+  identifier = %id=400394%
+  width = 86
+  action = resizebutton
+  height = 24
+}
+
+customization {
+  identifier = %id=400394%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400394%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = FancyMenu\buttonsmalloptionssel.png
+  backgroundnormal = FancyMenu\buttonsmalloptions.png
+}
+
+customization {
+  identifier = %id=502394%
+  orientation = mid-centered
+  x = -88
+  action = movebutton
+  y = 36
+}
+
+customization {
+  identifier = %id=502394%
+  width = 175
+  action = resizebutton
+  height = 23
+}
+
+customization {
+  identifier = %id=502394%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=502394%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = FancyMenu\buttonquits.png
+  backgroundnormal = FancyMenu\buttonqt.png
+}
+
+customization {
+  identifier = %id=376394%
+  action = hidebutton
+}
+
+customization {
+  path = FancyMenu/menuframe.png
+  orientation = mid-centered
+  x = -98
+  width = 197
+  action = addtexture
+  actionid = fcef25ae-6469-4d85-bd8e-7b0db93973651634762908045
+  y = -149
+  height = 298
+}
+
+customization {
+  hoversound = FancyMenu/menuhover.wav
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = FancyMenu\buttonsmallgithubsel.png
+  label = 
+  clicksound = FancyMenu/click.wav
+  loopbackgroundanimations = true
+  x = 1
+  width = 86
+  actionid = 87557f29-8e37-4688-9d27-8798596602c71634677700063
+  action = addbutton
+  y = 8
+  backgroundnormal = FancyMenu\buttonsmallgithub.png
+  value = https://github.com/EternaPack/Eterna-Client/issues
+  height = 24
+}
+
+customization {
+  hoversound = FancyMenu/menuhover.wav
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = FancyMenu\buttonsmalldiscordsel.png
+  label = 
+  clicksound = FancyMenu/click.wav
+  loopbackgroundanimations = true
+  x = -88
+  width = 86
+  actionid = eea0262f-21b9-4ae8-a8c9-6accfd2be3021634677892140
+  action = addbutton
+  y = 8
+  backgroundnormal = FancyMenu\buttonsmalldiscord.png
+  value = https://discord.gg/UPqhWXp9Kk
+  height = 24
+}
+
+customization {
+  hoversound = FancyMenu/menuhover.wav
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  backgroundhovered = FancyMenu\buttonpartners.png
+  label = 
+  clicksound = FancyMenu/click.wav
+  loopbackgroundanimations = true
+  x = -88
+  width = 175
+  actionid = e1c44910-45ef-4f8b-b5d7-ef620f3cf5581634678030302
+  action = addbutton
+  y = 63
+  backgroundnormal = FancyMenu\buttonpartner.png
+  value = https://www.bisecthosting.com/eterna
+  height = 24
+}
+

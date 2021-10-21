@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Daleth",
+      "uniqueId": "9ba262f1-3b9d-4fac-ba53-86d73bdd33e4"
+    },
+    "time": 1634824573363,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/ayxI2Qjxdd"
+    }
+  }
+]
