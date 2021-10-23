@@ -5,12 +5,13 @@
     "show_entities": true,
     "show_item": true,
     "show_mod_name": true,
-    "show_registry": false,
+    "show_registry": true,
     "show_entity_hp": true,
     "show_states": false,
     "show_pos": false
   },
   "minecraft": {
+    "item_entity": true,
     "override.infested": true,
     "override.trapped_chest": true,
     "override.powder_snow": true,
@@ -30,5 +31,9 @@
     "note_block.note": "SHARP",
     "note_block.int_value": false,
     "pet.hide_unknown_owner": false
+  },
+  "levelz": {
+    "mineable_info": true,
+    "mineable_level_info": false
   }
 }

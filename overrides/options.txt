@@ -4,7 +4,7 @@ autoSuggestions:true
 chatColors:true
 chatLinks:true
 chatLinksPrompt:true
-enableVsync:true
+enableVsync:false
 entityShadows:true
 forceUnicodeFont:false
 discrete_mouse_scroll:false
@@ -28,7 +28,7 @@ renderDistance:8
 entityDistanceScaling:1.0
 guiScale:3
 particles:0
-maxFps:30
+maxFps:260
 difficulty:2
 graphicsMode:1
 ao:2
@@ -114,7 +114,7 @@ key_iris.keybind.toggleShaders:key.keyboard.r
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_key.bewitchment.transformation_ability:key.keyboard.r
 key_a.b.c:key.keyboard.right.bracket
-key_key.antighost.reveal:key.keyboard.g
+key_key.antighost.reveal:key.keyboard.period
 key_key.charm.openCraftingTable:key.keyboard.c
 key_key.deathlog.death_screen:key.keyboard.end
 key_key.push_to_talk:key.keyboard.caps.lock
