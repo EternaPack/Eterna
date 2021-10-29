@@ -4,7 +4,7 @@
 	*/
 	"doSaveBrowsingPos": true,
 	// Whether to add local marker for the spot where the player died.
-	"autoDeathMarker": true,
+	"autoDeathMarker": false,
 	// Whether to add global markers for NPC villages.
 	"autoVillageMarkers": true,
 	// Whether to add global markers for Nether Portals.
@@ -15,7 +15,7 @@
 	// Default zoom level. The number corresponds to the size of a block on the map relative to the size of a GUI pixel. Preferrably a power of 2.
 	"defaultScale": 0.5,
 	// Minimum zoom level. The number corresponds to the size of a block on the map relative to the size of a GUI pixel. Preferrably a power of 2. Smaller values may decrease performance!
-	"minScale": 0.03125,
+	"minScale": 0.01125,
 	// Maximum zoom level. The number corresponds to the size of a block on the map relative to the size of a GUI pixel. Preferrably a power of 2.
 	"maxScale": 4.0,
 	/* If false (by default), then mousewheel up is zoom in, mousewheel down is zoom out.
@@ -26,7 +26,7 @@
 	   Note that this will not force faraway chunks to load, unless force_chunk_loading is enabled.
 	   Lower value gives better performance.
 	*/
-	"scanRadius": 11,
+	"scanRadius": 16,
 	/* Force loading of chunks within scan radius even if it exceeds regular chunk loading distance.
 	   Enabling this may SEVERELY decrease performance!
 	*/

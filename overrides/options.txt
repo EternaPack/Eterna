@@ -24,7 +24,7 @@ fov:0.0
 screenEffectScale:1.0
 fovEffectScale:1.0
 gamma:1.0
-renderDistance:8
+renderDistance:16
 entityDistanceScaling:1.0
 guiScale:3
 particles:0
@@ -34,7 +34,7 @@ graphicsMode:1
 ao:2
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["secretrooms:client_pack","vanilla","Fabric Mods","kubejs:resource_pack","computercraft/classic","file/Faithful Overlays.zip","file/faithful-renewed-r14.zip"]
+resourcePacks:["secretrooms:client_pack","vanilla","Fabric Mods","kubejs:resource_pack","computercraft/classic","file/Faithful Overlays.zip","file/faithful-renewed-r14.zip","Black Icons"]
 incompatibleResourcePacks:["kubejs:resource_pack"]
 lastServer:
 lang:en_us
@@ -44,7 +44,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
@@ -108,7 +108,7 @@ key_Reload Menu | CTRL + ALT + :key.keyboard.r
 key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c
 key_key.adventurez.activatearmor:key.keyboard.comma
 key_key.adventurez.dragonflydown:key.keyboard.left.alt
-key_key.adventurez.dragonfirebreath:key.keyboard.grave.accent
+key_key.adventurez.dragonfirebreath:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.r
 key_iris.keybind.shaderPackSelection:key.keyboard.o
@@ -117,13 +117,13 @@ key_a.b.c:key.keyboard.right.bracket
 key_key.antighost.reveal:key.keyboard.period
 key_key.charm.openCraftingTable:key.keyboard.c
 key_key.deathlog.death_screen:key.keyboard.end
-key_key.push_to_talk:key.keyboard.caps.lock
+key_key.push_to_talk:key.keyboard.grave.accent
 key_key.whisper:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.m
 key_key.disable_voice_chat:key.keyboard.n
 key_key.hide_icons:key.keyboard.h
 key_key.voice_chat:key.keyboard.v
-key_key.voice_chat_settings:key.keyboard.unknown
+key_key.voice_chat_settings:key.keyboard.apostrophe
 key_key.voice_chat_group:key.keyboard.g
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.inmis.open_backpack:key.keyboard.b
@@ -143,7 +143,7 @@ key_key.mousewheelie.pick_tool:key.keyboard.unknown
 key_key.levelz.openskillscreen:key.keyboard.k
 key_carrier.key:key.keyboard.unknown
 key_presencefootsteps.settings.key:key.keyboard.f10
-soundCategory_master:0.064781666
+soundCategory_master:0.044898592
 soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0

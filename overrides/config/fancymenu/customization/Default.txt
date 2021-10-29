@@ -214,7 +214,7 @@ customization {
   action = addbutton
   y = 8
   backgroundnormal = FancyMenu\buttonsmallgithub.png
-  value = https://github.com/EternaPack/Eterna-Client/issues
+  value = https://github.com/EternaPack/Eterna/issues
   height = 24
 }
 

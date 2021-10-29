@@ -40,7 +40,7 @@
     "show_fps": true,
     "show_coords": true,
     "reduce_resolution_on_mac": true,
-    "cloud_height": 128,
+    "cloud_height": 255,
     "toasts": true,
     "instant_sneak": false,
     "prevent_shaders": false,

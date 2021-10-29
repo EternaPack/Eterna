@@ -5,6 +5,7 @@
 	// If true will reset stats on death
 	"hardMode": false,
 	"resetCurrentXP": false,
+	"dropPlayerXP": true,
 	"disableMobFarms": true,
 	"disableFurnaceXP": false,
 	"xpBaseCost": 25,
