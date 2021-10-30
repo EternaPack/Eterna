@@ -14,7 +14,8 @@
 			"{data:{Count:1b,id:\"charm:ebony_sapling\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 			"{data:{Count:1b,id:\"minecraft:repeater\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 			"{data:{Count:1b,id:\"minecraft:blackstone_wall\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{Count:1b,id:\"artifality:life_crystal\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+			"{data:{Count:1b,id:\"artifality:life_crystal\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"betterend:pythadendron_bark\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
 		],
 		// Declares whether cheating mode is on.
 		"cheating": false,
