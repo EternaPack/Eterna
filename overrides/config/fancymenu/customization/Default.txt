@@ -195,7 +195,7 @@ customization {
   width = 197
   action = addtexture
   actionid = fcef25ae-6469-4d85-bd8e-7b0db93973651634762908045
-  y = -149
+  y = -163
   height = 298
 }
 
@@ -214,7 +214,7 @@ customization {
   action = addbutton
   y = 8
   backgroundnormal = FancyMenu\buttonsmallgithub.png
-  value = https://github.com/EternaPack/Eterna/issues
+  value = https://github.com/EternaPack/Eterna-Client/issues
   height = 24
 }
 

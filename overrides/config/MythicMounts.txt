@@ -53,7 +53,7 @@ Loudness:
 [Global] Print Biomes: false;
 [Global] Command Item: stick;
 [Global] Mounted Flight Enabled: true;
-[Global] Creative Flight: false;
+[Global] Creative Flight: true;
 
 CourierBird ShouldSpawn: true
 CourierBird SpawnDebug: false
@@ -244,8 +244,8 @@ Nudibranch SpawnBlocks: minecraft:brain_coral_block; minecraft:bubble_coral_bloc
 Nudibranch SpawnWeight: 20
 Nudibranch SpawnRandomChance: 100
 Nudibranch SpawnType: overworld
-Nudibranch MinSpawnGroupSize: 2
-Nudibranch MaxSpawnGroupSize: 4
+Nudibranch MinSpawnGroupSize: 1
+Nudibranch MaxSpawnGroupSize: 2
 Nudibranch InventorySize: 3
 Nudibranch Attack: 3
 Nudibranch Health: 25

@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Eterna - Fabric",
-  "version": "0.1.3a",
+  "version": "0.1.5a",
   "author": "",
   "files": [
     {
@@ -205,6 +205,11 @@
       "required": true
     },
     {
+      "projectID": 396184,
+      "fileID": 3474449,
+      "required": true
+    },
+    {
       "projectID": 527638,
       "fileID": 3460550,
       "required": true
@@ -250,6 +255,11 @@
       "required": true
     },
     {
+      "projectID": 411816,
+      "fileID": 3506273,
+      "required": true
+    },
+    {
       "projectID": 433539,
       "fileID": 3483586,
       "required": true
@@ -282,6 +292,11 @@
     {
       "projectID": 364488,
       "fileID": 3445962,
+      "required": true
+    },
+    {
+      "projectID": 537717,
+      "fileID": 3506245,
       "required": true
     },
     {
@@ -410,6 +425,11 @@
       "required": true
     },
     {
+      "projectID": 398022,
+      "fileID": 3443946,
+      "required": true
+    },
+    {
       "projectID": 242064,
       "fileID": 3379264,
       "required": true
@@ -481,7 +501,7 @@
     },
     {
       "projectID": 438718,
-      "fileID": 3488229,
+      "fileID": 3505805,
       "required": true
     },
     {
@@ -511,7 +531,7 @@
     },
     {
       "projectID": 517833,
-      "fileID": 3501408,
+      "fileID": 3508818,
       "required": true
     },
     {
@@ -535,13 +555,13 @@
       "required": true
     },
     {
-      "projectID": 447673,
-      "fileID": 3480453,
+      "projectID": 318449,
+      "fileID": 3397538,
       "required": true
     },
     {
-      "projectID": 318449,
-      "fileID": 3397538,
+      "projectID": 447673,
+      "fileID": 3480453,
       "required": true
     },
     {
@@ -552,6 +572,11 @@
     {
       "projectID": 435980,
       "fileID": 3328690,
+      "required": true
+    },
+    {
+      "projectID": 541257,
+      "fileID": 3504473,
       "required": true
     },
     {
@@ -610,13 +635,13 @@
       "required": true
     },
     {
-      "projectID": 494542,
-      "fileID": 3353312,
+      "projectID": 292908,
+      "fileID": 3489433,
       "required": true
     },
     {
-      "projectID": 292908,
-      "fileID": 3489433,
+      "projectID": 494542,
+      "fileID": 3353312,
       "required": true
     },
     {
@@ -625,13 +650,13 @@
       "required": true
     },
     {
-      "projectID": 437174,
-      "fileID": 3427462,
+      "projectID": 511812,
+      "fileID": 3414936,
       "required": true
     },
     {
-      "projectID": 511812,
-      "fileID": 3414936,
+      "projectID": 437174,
+      "fileID": 3427462,
       "required": true
     },
     {
@@ -665,6 +690,11 @@
       "required": true
     },
     {
+      "projectID": 302957,
+      "fileID": 3472481,
+      "required": true
+    },
+    {
       "projectID": 360333,
       "fileID": 3460193,
       "required": true
@@ -695,13 +725,13 @@
       "required": true
     },
     {
-      "projectID": 437779,
-      "fileID": 3329382,
+      "projectID": 390991,
+      "fileID": 3507306,
       "required": true
     },
     {
-      "projectID": 390991,
-      "fileID": 3507306,
+      "projectID": 437779,
+      "fileID": 3329382,
       "required": true
     },
     {
