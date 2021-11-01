@@ -3,7 +3,7 @@
     "version": "1.17.1",
     "modLoaders": [
       {
-        "id": "fabric-0.11.7",
+        "id": "fabric-0.12.3",
         "primary": true
       }
     ]
@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Eterna - Fabric",
-  "version": "0.1.5a",
+  "version": "0.1.6a",
   "author": "",
   "files": [
     {
@@ -31,7 +31,7 @@
     },
     {
       "projectID": 444498,
-      "fileID": 3459369,
+      "fileID": 3511041,
       "required": true
     },
     {
@@ -122,6 +122,11 @@
     {
       "projectID": 496913,
       "fileID": 3455185,
+      "required": true
+    },
+    {
+      "projectID": 474078,
+      "fileID": 3369619,
       "required": true
     },
     {
@@ -261,7 +266,7 @@
     },
     {
       "projectID": 353890,
-      "fileID": 3491766,
+      "fileID": 3509359,
       "required": true
     },
     {
@@ -351,7 +356,7 @@
     },
     {
       "projectID": 306612,
-      "fileID": 3494349,
+      "fileID": 3510335,
       "required": true
     },
     {
@@ -526,12 +531,12 @@
     },
     {
       "projectID": 517833,
-      "fileID": 3508818,
+      "fileID": 3509676,
       "required": true
     },
     {
       "projectID": 440979,
-      "fileID": 3497888,
+      "fileID": 3511294,
       "required": true
     },
     {
