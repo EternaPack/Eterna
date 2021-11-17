@@ -14,7 +14,7 @@ reducedDebugInfo:false
 snooperEnabled:true
 showSubtitles:false
 touchscreen:false
-fullscreen:true
+fullscreen:false
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -143,7 +143,7 @@ key_key.waila.show_overlay:key.keyboard.keypad.1
 key_key.waila.toggle_liquid:key.keyboard.keypad.2
 key_key.waila.show_recipe_input:key.keyboard.keypad.3
 key_key.waila.show_recipe_output:key.keyboard.keypad.4
-soundCategory_master:0.044898592
+soundCategory_master:0.26029852
 soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
