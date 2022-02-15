@@ -35,6 +35,7 @@ key_modifiers_key.hotbar.9:0,0,0
 key_modifiers_Toggle Drippy Customization Overlay | CTRL + ALT + :0,0,0
 key_modifiers_Reload Menu | CTRL + ALT + :0,0,0
 key_modifiers_Toggle Customization Overlay | CTRL + ALT + :0,0,0
+key_modifiers_key.namepain.showculled:0,0,0
 key_modifiers_key.adventurez.activatearmor:0,0,0
 key_modifiers_key.adventurez.dragonflydown:0,0,0
 key_modifiers_key.adventurez.dragonfirebreath:0,0,0
@@ -44,6 +45,8 @@ key_modifiers_key.backslot.switch_beltslot:0,0,1
 key_modifiers_key.bewitchment.transformation_ability:0,0,0
 key_modifiers_carrier.key:0,0,0
 key_modifiers_key.charm.openCraftingTable:0,0,0
+key_modifiers_key.clienttweaks.hideOffhandItem:0,0,0
+key_modifiers_key.clienttweaks.disableStepAssist:0,0,0
 key_modifiers_key.deathlog.death_screen:0,0,0
 key_modifiers_key.entityculling.toggle:0,0,0
 key_modifiers_key.inmis.open_backpack:0,0,0
@@ -58,16 +61,7 @@ key_modifiers_key.mousewheelie.scroll_up:0,0,0
 key_modifiers_key.mousewheelie.scroll_down:0,0,0
 key_modifiers_key.mousewheelie.pick_tool:0,0,0
 key_modifiers_key.nostrip.togglestrip:0,0,0
-key_modifiers_presencefootsteps.settings.key:0,0,0
-key_modifiers_key.push_to_talk:0,0,0
-key_modifiers_key.whisper:0,0,0
-key_modifiers_key.mute_microphone:0,0,0
-key_modifiers_key.disable_voice_chat:0,0,0
-key_modifiers_key.hide_icons:0,0,0
-key_modifiers_key.voice_chat:0,0,0
-key_modifiers_key.voice_chat_settings:0,0,0
-key_modifiers_key.voice_chat_group:0,0,0
-key_modifiers_key.voice_chat_toggle_recording:0,0,0
+key_modifiers_key.observable.profile:0,0,0
 key_modifiers_key.waila.config:0,0,0
 key_modifiers_key.waila.show_overlay:0,0,0
 key_modifiers_key.waila.toggle_liquid:0,0,0

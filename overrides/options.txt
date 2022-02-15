@@ -12,9 +12,9 @@ invertYMouse:false
 realmsNotifications:true
 reducedDebugInfo:false
 snooperEnabled:true
-showSubtitles:false
+showSubtitles:true
 touchscreen:false
-fullscreen:false
+fullscreen:true
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -105,6 +105,7 @@ key_key.hotbar.9:key.keyboard.9
 key_Toggle Drippy Customization Overlay | CTRL + ALT + :key.keyboard.l
 key_Reload Menu | CTRL + ALT + :key.keyboard.r
 key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c
+key_key.namepain.showculled:key.keyboard.unknown
 key_key.adventurez.activatearmor:key.keyboard.v
 key_key.adventurez.dragonflydown:key.keyboard.left.alt
 key_key.adventurez.dragonfirebreath:key.keyboard.grave.accent
@@ -114,6 +115,8 @@ key_key.backslot.switch_beltslot:key.keyboard.g
 key_key.bewitchment.transformation_ability:key.keyboard.r
 key_carrier.key:key.keyboard.unknown
 key_key.charm.openCraftingTable:key.keyboard.v
+key_key.clienttweaks.hideOffhandItem:key.keyboard.unknown
+key_key.clienttweaks.disableStepAssist:key.keyboard.unknown
 key_key.deathlog.death_screen:key.keyboard.end
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.inmis.open_backpack:key.keyboard.b
@@ -128,16 +131,7 @@ key_key.mousewheelie.scroll_up:key.amecsapi.mouse.scroll.up
 key_key.mousewheelie.scroll_down:key.amecsapi.mouse.scroll.down
 key_key.mousewheelie.pick_tool:key.keyboard.unknown
 key_key.nostrip.togglestrip:key.keyboard.y
-key_presencefootsteps.settings.key:key.keyboard.f10
-key_key.push_to_talk:key.keyboard.caps.lock
-key_key.whisper:key.keyboard.unknown
-key_key.mute_microphone:key.keyboard.m
-key_key.disable_voice_chat:key.keyboard.n
-key_key.hide_icons:key.keyboard.h
-key_key.voice_chat:key.keyboard.v
-key_key.voice_chat_settings:key.keyboard.unknown
-key_key.voice_chat_group:key.keyboard.g
-key_key.voice_chat_toggle_recording:key.keyboard.unknown
+key_key.observable.profile:key.keyboard.r
 key_key.waila.config:key.keyboard.keypad.0
 key_key.waila.show_overlay:key.keyboard.keypad.1
 key_key.waila.toggle_liquid:key.keyboard.keypad.2
