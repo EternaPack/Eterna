@@ -34,8 +34,8 @@ graphicsMode:1
 ao:2
 biomeBlendRadius:2
 renderClouds:true
-resourcePacks:["vanilla","secretrooms:client_pack","Fabric Mods","kubejs:resource_pack","computercraft/classic","file/Faithful Overlays.zip","file/faithful-renewed-r14.zip","Black Icons"]
-incompatibleResourcePacks:["kubejs:resource_pack"]
+resourcePacks:["Fabric Mods"]
+incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
 chatVisibility:0
@@ -103,39 +103,39 @@ key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_Toggle Drippy Customization Overlay | CTRL + ALT + :key.keyboard.l
-key_key.entityculling.toggle:key.keyboard.unknown
 key_Reload Menu | CTRL + ALT + :key.keyboard.r
 key_Toggle Customization Overlay | CTRL + ALT + :key.keyboard.c
-key_key.adventurez.activatearmor:key.keyboard.comma
+key_key.adventurez.activatearmor:key.keyboard.v
 key_key.adventurez.dragonflydown:key.keyboard.left.alt
-key_key.adventurez.dragonfirebreath:key.keyboard.unknown
-key_key.antighost.reveal:key.keyboard.period
+key_key.adventurez.dragonfirebreath:key.keyboard.grave.accent
+key_key.antighost.reveal:key.keyboard.g
 key_key.backslot.switch_backslot:key.keyboard.g
 key_key.backslot.switch_beltslot:key.keyboard.g
 key_key.bewitchment.transformation_ability:key.keyboard.r
 key_carrier.key:key.keyboard.unknown
-key_key.charm.openCraftingTable:key.keyboard.c
+key_key.charm.openCraftingTable:key.keyboard.v
 key_key.deathlog.death_screen:key.keyboard.end
+key_key.entityculling.toggle:key.keyboard.unknown
 key_key.inmis.open_backpack:key.keyboard.b
 key_iris.keybind.reload:key.keyboard.r
-key_iris.keybind.toggleShaders:key.keyboard.r
+key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_a.b.c:key.keyboard.right.bracket
 key_key.levelz.openskillscreen:key.keyboard.k
 key_key.mousewheelie.open_config_screen:key.keyboard.unknown
 key_key.mousewheelie.sort_inventory:key.mouse.middle
-key_key.mousewheelie.scroll_up:amecsapi.key.mouse.scroll.up
-key_key.mousewheelie.scroll_down:amecsapi.key.mouse.scroll.down
+key_key.mousewheelie.scroll_up:key.amecsapi.mouse.scroll.up
+key_key.mousewheelie.scroll_down:key.amecsapi.mouse.scroll.down
 key_key.mousewheelie.pick_tool:key.keyboard.unknown
 key_key.nostrip.togglestrip:key.keyboard.y
 key_presencefootsteps.settings.key:key.keyboard.f10
-key_key.push_to_talk:key.keyboard.grave.accent
+key_key.push_to_talk:key.keyboard.caps.lock
 key_key.whisper:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.m
 key_key.disable_voice_chat:key.keyboard.n
 key_key.hide_icons:key.keyboard.h
 key_key.voice_chat:key.keyboard.v
-key_key.voice_chat_settings:key.keyboard.apostrophe
+key_key.voice_chat_settings:key.keyboard.unknown
 key_key.voice_chat_group:key.keyboard.g
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.waila.config:key.keyboard.keypad.0

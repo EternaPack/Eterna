@@ -1,10 +1,10 @@
 {
   "enabled": true,
-  "displayRemaining": 3,
+  "displayRemaining": 0,
   "displayCount": 3,
   "lastKnownVersion": {
-    "number": 32,
-    "minecraft": "1.17",
+    "number": 40,
+    "minecraft": "1.18",
     "type": "r"
   }
 }

@@ -54,6 +54,12 @@
   "mcdw:axe_cursed": {
     "mcdw:exploding": 1
   },
+  "mythicmetals:prometheum_pickaxe": {
+    "minecraft:mending": 1
+  },
+  "mythicmetals:prometheum_hoe": {
+    "minecraft:mending": 1
+  },
   "mcdw:dagger_swift_striker": {
     "mcdw:echo": 1,
     "mcdw:ambush": 1
@@ -91,8 +97,14 @@
   "mcdw:staff_battlestaff_of_terror": {
     "mcdw:exploding": 1
   },
+  "mythicmetals:banglum_boots": {
+    "minecraft:feather_falling": 1
+  },
   "mcdw:crossbow_the_slicer": {
     "minecraft:piercing": 1
+  },
+  "mcdw:sickle_skull_scythe": {
+    "mcdw:freezing": 1
   },
   "mcdw:bow_masters_bow": {
     "minecraft:power": 1
@@ -112,6 +124,9 @@
   "mcdw:bow_green_menace": {
     "mcdw:poison_cloud": 1
   },
+  "mythicmetals:prometheum_sword": {
+    "minecraft:mending": 1
+  },
   "mythicmetals:aquarium_boots": {
     "minecraft:depth_strider": 2
   },
@@ -127,6 +142,12 @@
   },
   "mcdw:gauntlet_soul_fists": {
     "mcdw:enigma_resonator": 1
+  },
+  "mcdw:bow_web_bow": {
+    "mcdw:cobweb_shot": 1
+  },
+  "mcdw:spear_cackling_broom": {
+    "mcdw:smiting": 1
   },
   "mcdw:bow_red_snake": {
     "mcdw:fuse_shot": 1
@@ -205,6 +226,10 @@
   "mcdw:dagger_the_end": {
     "mcdw:void_strike": 1
   },
+  "mcdw:bow_phantom_bow": {
+    "mcdw:phantoms_mark": 1,
+    "minecraft:power": 1
+  },
   "mcdw:bow_bubble_burster": {
     "mcdw:ricochet": 1
   },
@@ -253,6 +278,9 @@
   "mcdw:bow_shivering_bow": {
     "mcdw:tempo_theft": 1
   },
+  "mythicmetals:banglum_leggings": {
+    "minecraft:projectile_protection": 3
+  },
   "mcdw:crossbow_slayer_crossbow": {
     "mcdw:ricochet": 1
   },
@@ -261,6 +289,9 @@
   },
   "mcdw:dagger_eternal_knife": {
     "mcdw:soul_siphon": 1
+  },
+  "mythicmetals:prometheum_axe": {
+    "minecraft:mending": 1
   },
   "mcdw:crossbow_butterfly_crossbow": {
     "mcdw:bonus_shot": 1
@@ -273,6 +304,9 @@
   },
   "mcdw:hammer_gravity": {
     "mcdw:gravity": 1
+  },
+  "mythicmetals:prometheum_shovel": {
+    "minecraft:mending": 1
   },
   "mythicmetals:prometheum_helmet": {
     "minecraft:mending": 1
@@ -292,6 +326,9 @@
   "mcdw:sword_dark_katana": {
     "mcdw:smiting": 1
   },
+  "mythicmetals:banglum_chestplate": {
+    "minecraft:blast_protection": 2
+  },
   "mcdw:dagger_chill_gale_knife": {
     "mcdw:freezing": 1
   },
@@ -302,7 +339,7 @@
     "mcdw:void_strike": 1
   },
   "mythicmetals:banglum_helmet": {
-    "minecraft:projectile_protection": 3
+    "minecraft:thorns": 1
   },
   "mcdw:sword_frost_slayer": {
     "mcdw:freezing": 1
